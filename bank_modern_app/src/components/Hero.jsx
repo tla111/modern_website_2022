@@ -32,11 +32,10 @@ const Hero = () => {
                     most likely to fit your needs. We examine annual percentage rates,
                     annual fees.
                 </p>
+            </div>
 
-                <div>
-                    <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
-                </div>
-
+            <div>
+                <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
             </div>
         </section>
     )
