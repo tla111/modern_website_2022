@@ -33,6 +33,10 @@ const Hero = () => {
                     annual fees.
                 </p>
 
+                <div>
+                    <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
+                </div>
+
             </div>
         </section>
     )
